@@ -18,7 +18,7 @@ pinout:
   # Inputs
   ui[0]:"A0"
   ui[1]:"B0"
-  ui[2]: A1
+  ui[2]:"A1"
   ui[3]:"B1"
   ui[4]:"A2"
   ui[5]:"B2"
